@@ -23,6 +23,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/@nebular/theme/styles/prebuilt/cosmic.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -97,5 +98,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "6898b9a9-ed44-47d9-af15-e40ee6f16ae7"
   }
 }
